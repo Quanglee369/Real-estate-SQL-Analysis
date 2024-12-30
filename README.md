@@ -1,6 +1,6 @@
 # 🏠 Real-estate-SQL-Analysis
 
-This project analyzes real estate data from a website selling different types of property in India.
+This project using Postgresql analyzes real estate data from a website selling different types of property in India.
 [Source](https://www.kaggle.com/datasets/kunjadiyarohit/flats-uncleaned-dataset/data) 
 
 The project begins with cleaning up faulty and untidy data and then moves to data analysis.
@@ -97,3 +97,5 @@ The insights below are discovered through data exploration and analysis of the d
 -   The property market is complex, with general trends favoring lower floors, larger spaces (with exceptions), fewer floors in the building, and resale properties.
 -   "Super Area" and "Carpet Area" dominate the residential market, with "Super Area" offering the most affordable options.
 -   "Built Area" and "Plot Area" cater to a niche market with higher-priced land and industrial properties.
+
+## The dataset and sql file had been attached along with this file
